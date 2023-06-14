@@ -1,0 +1,11 @@
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\bin\Debug\Win-Form-Adam_Asmaca.exe.config
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\bin\Debug\Win-Form-Adam_Asmaca.exe
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\bin\Debug\Win-Form-Adam_Asmaca.pdb
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win_Form_Adam_Asmaca.Form1.resources
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win_Form_Adam_Asmaca.Properties.Resources.resources
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.csproj.GenerateResource.cache
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.exe
+C:\Users\alica\Desktop\Win-Form-Adam_Asmaca\Win-Form-Adam_Asmaca\obj\Debug\Win-Form-Adam_Asmaca.pdb
